@@ -1,0 +1,1 @@
+The newly generated index can be seen in mynewfile1.txt file
