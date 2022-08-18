@@ -49,7 +49,7 @@ async function example() {
    var ordered=[]
    Object.keys(index).sort().reduce(
     (obj, key) => { 
-      obj = key+':'+index[key]
+      obj = key+' : '+index[key]
       
       ordered.push(obj)
     }, 
